@@ -6,12 +6,14 @@
 Deep Learning Specialization. Master Deep Learning, and Break into AI  
 by deeplearning.ai 
 
-[Week 1 A new programming paradim]()  
+Week 1 A new programming paradim - https://www.coursera.org/learn/introduction-tensorflow/home/week/1  
 [Exercise 1.1](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Colab1_for_deeplearn.ipynb)  
 [Exercise 1.2](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Exercise_1_House_Prices_Question.ipynb)  
 [Week 1 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Week%201%20Quiz.pdf)  
 
 [YouTube Channel](https://www.youtube.com/tensorflow)  
 [Play with TensorFlow in your browser](http://playground.tensorflow.org/)  
+
+Week 2 - https://www.coursera.org/learn/introduction-tensorflow/home/week/2
 
 

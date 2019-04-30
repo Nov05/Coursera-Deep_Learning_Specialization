@@ -2,7 +2,8 @@
 
 ## [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-### [1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)  
+### 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  
+https://www.coursera.org/learn/introduction-tensorflow/
 Deep Learning Specialization. Master Deep Learning, and Break into AI  
 by deeplearning.ai 
 

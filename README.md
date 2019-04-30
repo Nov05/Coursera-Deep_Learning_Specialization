@@ -23,4 +23,6 @@ https://www.coursera.org/learn/introduction-tensorflow/
 [Play with TensorFlow in your browser](http://playground.tensorflow.org/)  
 
 #### Week 2 Introduction to Computer Vision  
+[Fashion MNIST @github](https://github.com/zalandoresearch/fashion-mnist)  
+
 

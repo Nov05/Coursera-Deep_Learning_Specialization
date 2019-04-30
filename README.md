@@ -1,6 +1,6 @@
-# Precourses
+# Coursera-Deep_Learning_Specialization 
 
-# [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+# Precourses
 
 ## :point_right:  
 ## AI For Everyone  
@@ -24,7 +24,6 @@ https://www.coursera.org/learn/introduction-tensorflow/
 
 #### Week 2 Introduction to Computer Vision  
 [Fashion MNIST @github](https://github.com/zalandoresearch/fashion-mnist)  
-
-# Coursera-Deep_Learning_Specialization  
-
+ 
+# [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)  
 

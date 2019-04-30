@@ -19,4 +19,5 @@ https://www.coursera.org/learn/introduction-tensorflow/
 
 #### Week 2 Introduction to Computer Vision  
 
+### :point_right:
 

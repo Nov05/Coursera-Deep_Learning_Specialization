@@ -2,11 +2,13 @@
 
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
+## :point_right:  
 ## AI For Everyone  
 AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take.  
 by deeplearning.ai  
 https://www.coursera.org/learn/ai-for-everyone
 
+## :point_right:  
 ## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 Deep Learning Specialization. Master Deep Learning, and Break into AI  
 by deeplearning.ai  

@@ -24,6 +24,7 @@ https://www.coursera.org/learn/introduction-tensorflow/
 
 #### Week 2 Introduction to Computer Vision  
 [Fashion MNIST @github](https://github.com/zalandoresearch/fashion-mnist)  
+[Machine Learning Fairness](https://developers.google.com/machine-learning/fairness-overview/)
  
 # 【[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)】  
 

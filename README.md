@@ -28,7 +28,11 @@ https://www.coursera.org/learn/introduction-tensorflow/
 
 [Exercise 2.1](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Course_1_Part_4_Lesson_2_Notebook.ipynb)  
 [Week 2 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Week%202%20Quiz.pdf)
- 
+
+### Week 3 Enhancing Vision with Convolutional Neural Networks
+
+### Week 4 Using Real-world Images
+
 # 【[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)】  
 ## Neural Networks and Deep Learning  
 ## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization

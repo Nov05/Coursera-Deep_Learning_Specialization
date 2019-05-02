@@ -26,7 +26,8 @@ https://www.coursera.org/learn/introduction-tensorflow/
 [Fashion MNIST @github](https://github.com/zalandoresearch/fashion-mnist)  
 [Machine Learning Fairness](https://developers.google.com/machine-learning/fairness-overview/)
 
-[Exercise 2.1](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Course_1_Part_4_Lesson_2_Notebook.ipynb)
+[Exercise 2.1](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Course_1_Part_4_Lesson_2_Notebook.ipynb)  
+[Week 2 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Week%202%20Quiz.pdf)
  
 # 【[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)】  
 ## Neural Networks and Deep Learning  

@@ -43,8 +43,12 @@ https://www.coursera.org/learn/introduction-tensorflow/
 [Exercise 3.1](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Exercise_3_Question.ipynb)
 [(Answer)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%203%20-%20Convolutions/Exercise%203%20-%20Answer.ipynb)  
 
-
 #### Week 4 Using Real-world Images
+
+[Binary Cross-Entropy Loss](https://gombru.github.io/2018/05/23/cross_entropy_loss/)  
+[tf.train.RMSPropOptimizer](https://www.tensorflow.org/api_docs/python/tf/train/RMSPropOptimizer)  
+[Overview	of	mini-batch	gradient	descent](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
+[Binary Classification (C1W2L01)](https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s)  
 
 # 【[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)】  
 ## :point_right:  

@@ -38,9 +38,14 @@ https://www.coursera.org/learn/introduction-tensorflow/
 #### Week 4 Using Real-world Images
 
 # 【[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)】  
+## :point_right:  
 ## 1. Neural Networks and Deep Learning  
-## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-## 3. Structuring Machine Learning Projects
-## 4. Convolutional Neural Networks
+## :point_right:  
+## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
+## :point_right:  
+## 3. Structuring Machine Learning Projects  
+## :point_right:  
+## 4. Convolutional Neural Networks  
+## :point_right:  
 ## 5. Sequence Models
 

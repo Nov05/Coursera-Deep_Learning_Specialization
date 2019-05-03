@@ -39,6 +39,9 @@ https://www.coursera.org/learn/introduction-tensorflow/
 [Course 1 - Part 6 - Lesson 2 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb)  
 [Convolutions Sidebar.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb)
 
+[Week 3 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Week%203%20Quiz.pdf)  
+[Exercise 3.1](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%203%20-%20Convolutions/Exercise%203%20-%20Question.ipynb)
+
 #### Week 4 Using Real-world Images
 
 # 【[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)】  

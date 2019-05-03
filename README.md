@@ -33,9 +33,11 @@ https://www.coursera.org/learn/introduction-tensorflow/
 
 [tf.keras.layers.Conv2D](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/keras/layers/Conv2D)  
 [tf.layers.MaxPooling2D](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/layers/MaxPooling2D)  
+[Image Filtering - Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/filtering.html)
 
 [Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)  
 [Course 1 - Part 6 - Lesson 2 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb)  
+[Convolutions Sidebar.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb)
 
 #### Week 4 Using Real-world Images
 

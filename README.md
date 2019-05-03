@@ -51,6 +51,7 @@ https://www.coursera.org/learn/introduction-tensorflow/
 [Binary Classification (C1W2L01)](https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s)  
 
 [Exercise 4.1 Human or Horse](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Horse_or_Human_NoValidation.ipynb)  
+[Exercise 4.2 Human or Horse/Course 1 - Part 8 - Lesson 4 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%204%20-%20Notebook.ipynb)  
 
 # 【[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)】  
 ## :point_right:  

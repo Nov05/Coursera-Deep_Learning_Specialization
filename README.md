@@ -32,7 +32,8 @@ https://www.coursera.org/learn/introduction-tensorflow/
 #### Week 3 Enhancing Vision with Convolutional Neural Networks
 
 [tf.keras.layers.Conv2D](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/keras/layers/Conv2D)  
-[tf.layers.MaxPooling2D](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/layers/MaxPooling2D)
+[tf.layers.MaxPooling2D](https://www.tensorflow.org/versions/r1.8/api_docs/python/tf/layers/MaxPooling2D)  
+[Convolutional Neural Networks (Course 4 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)  
 
 #### Week 4 Using Real-world Images
 

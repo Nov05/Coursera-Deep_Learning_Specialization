@@ -55,7 +55,7 @@ https://www.coursera.org/learn/introduction-tensorflow/
 [Horses or Humans with Compacting of Images](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%204%20-%20Notebook.ipynb)  
 
 [Week 4 Quiz]()  
-[Exercise 4.1]()
+[Exercise 4.1](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Exercise4_Question.ipynb)
 [(Answer)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%204%20-%20Handling%20Complex%20Images/Exercise4-Answer.ipynb)
 
 # 【[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)】  

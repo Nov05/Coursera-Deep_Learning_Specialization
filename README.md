@@ -8,6 +8,8 @@ AI is not only for engineers. If you want your organization to become better at 
 by deeplearning.ai  
 https://www.coursera.org/learn/ai-for-everyone
 
+[Week 1 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20For%20Everyone%20-%20Week%201%20Quiz.pdf)  
+
 ## :point_right:  
 ## 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 Deep Learning Specialization. Master Deep Learning, and Break into AI  

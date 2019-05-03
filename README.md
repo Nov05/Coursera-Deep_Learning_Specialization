@@ -50,6 +50,8 @@ https://www.coursera.org/learn/introduction-tensorflow/
 [Overview	of	mini-batch	gradient	descent](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 [Binary Classification (C1W2L01)](https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s)  
 
+[Exercise 4.1 Human or Horse](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Horse_or_Human_NoValidation.ipynb)  
+
 # 【[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)】  
 ## :point_right:  
 ## 1. Neural Networks and Deep Learning  

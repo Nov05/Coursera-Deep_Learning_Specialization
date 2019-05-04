@@ -1,4 +1,4 @@
-# Coursera-Deep_Learning_Specialization 
+﻿# Coursera-Deep_Learning_Specialization 
 
 # 【Precourses】
 
@@ -8,10 +8,10 @@ AI is not only for engineers. If you want your organization to become better at 
 by deeplearning.ai  
 https://www.coursera.org/learn/ai-for-everyone
 
-[Week 1 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20For%20Everyone%20-%20Week%201%20Quiz.pdf)  
-[Week 2 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20For%20Everyone%20-%20Week%202%20Quiz.pdf)  
-[Week 3 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20For%20Everyone%20-%20Week%203%20Quiz.pdf)  
-[Week 4 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20For%20Everyone%20-%20Week%204%20Quiz.pdf)  
+[Week 1 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20for%20Everyone/AI%20For%20Everyone%20-%20Week%201%20Quiz.pdf)  
+[Week 2 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20for%20Everyone/AI%20For%20Everyone%20-%20Week%202%20Quiz.pdf)  
+[Week 3 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20for%20Everyone/AI%20For%20Everyone%20-%20Week%203%20Quiz.pdf)  
+[Week 4 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20for%20Everyone/AI%20For%20Everyone%20-%20Week%204%20Quiz.pdf)  
 
 ## :point_right:  
 ## 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
@@ -22,7 +22,7 @@ https://www.coursera.org/learn/introduction-tensorflow/
 #### Week 1 A New Programming Paradim  
 [Exercise 1.1](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Colab1_for_deeplearn.ipynb)  
 [Exercise 1.2](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Exercise_1_House_Prices_Question.ipynb)  
-[Week 1 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Week%201%20Quiz.pdf)  
+[Week 1 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%201%20Quiz.pdf)  
 
 [YouTube Channel](https://www.youtube.com/tensorflow)  
 [Play with TensorFlow in your browser](http://playground.tensorflow.org/)  
@@ -32,7 +32,7 @@ https://www.coursera.org/learn/introduction-tensorflow/
 [Machine Learning Fairness](https://developers.google.com/machine-learning/fairness-overview/)
 
 [Exercise 2.1](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Course_1_Part_4_Lesson_2_Notebook.ipynb)  
-[Week 2 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Week%202%20Quiz.pdf)
+[Week 2 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master//Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%202%20Quiz.pdf)
 
 #### Week 3 Enhancing Vision with Convolutional Neural Networks
 
@@ -44,7 +44,7 @@ https://www.coursera.org/learn/introduction-tensorflow/
 [Course 1 - Part 6 - Lesson 2 - Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%202%20-%20Notebook.ipynb)  
 [Convolutions Sidebar.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%206%20-%20Lesson%203%20-%20Notebook.ipynb)
 
-[Week 3 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Week%203%20Quiz.pdf)  
+[Week 3 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master//Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%203%20Quiz.pdf)  
 [Exercise 3.1](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Exercise_3_Question.ipynb)
 [(Answer)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%203%20-%20Convolutions/Exercise%203%20-%20Answer.ipynb)  
 
@@ -59,7 +59,7 @@ https://www.coursera.org/learn/introduction-tensorflow/
 [Horses or Humans with Validation](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%203%20-%20Notebook.ipynb)  
 [Horses or Humans with Compacting of Images](https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%204%20-%20Notebook.ipynb)  
 
-[Week 4 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Week%204%20Quiz.pdf)  
+[Week 4 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master//Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Week%204%20Quiz.pdf)  
 [Exercise 4.1](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/Exercise4_Question.ipynb)
 [(Answer)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%204%20-%20Handling%20Complex%20Images/Exercise4-Answer.ipynb)
 

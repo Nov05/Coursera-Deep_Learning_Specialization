@@ -9,6 +9,9 @@ by deeplearning.ai
 https://www.coursera.org/learn/ai-for-everyone
 
 [Week 1 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20For%20Everyone%20-%20Week%201%20Quiz.pdf)  
+[Week 2 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20For%20Everyone%20-%20Week%202%20Quiz.pdf)  
+[Week 3 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20For%20Everyone%20-%20Week%203%20Quiz.pdf)  
+[Week 4 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20For%20Everyone%20-%20Week%204%20Quiz.pdf)  
 
 ## :point_right:  
 ## 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning

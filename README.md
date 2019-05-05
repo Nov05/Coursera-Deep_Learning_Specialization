@@ -15,7 +15,7 @@ https://www.coursera.org/learn/ai-for-everyone
 
 ## :point_right:  
 ## 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-Deep Learning Specialization. Master Deep Learning, and Break into AI  
+If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you best practices for using TensorFlow, a popular open-source framework for machine learning.  
 by deeplearning.ai  
 https://www.coursera.org/learn/introduction-tensorflow/
 
@@ -64,6 +64,9 @@ https://www.coursera.org/learn/introduction-tensorflow/
 [(Answer)](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%204%20-%20Handling%20Complex%20Images/Exercise4-Answer.ipynb)
 
 # 【[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)】  
+In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.  
+by deeplearning.ai 
+
 ## :point_right:  
 ## 1. Neural Networks and Deep Learning  
 [Week 1 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/Neural%20Networks%20and%20Deep%20Learning%20-%20Week%201%20Quiz.pdf) [(Answer)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201%20Quiz%20-%20Introduction%20to%20deep%20learning.md)  

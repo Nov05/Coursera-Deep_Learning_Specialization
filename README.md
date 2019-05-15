@@ -82,6 +82,7 @@ In this course, you will learn the foundations of deep learning. When you finish
 Readings:  
 [Implementing a Neural Network from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)  
 [Why normalize images by subtracting dataset's image mean, instead of the current image mean in deep learning?](https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current)  
+[Pieter Abbeel Interview](https://www.youtube.com/watch?v=dmkPJpWCVcI)
 
 ## :point_right:  
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  

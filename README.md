@@ -80,8 +80,8 @@ In this course, you will learn the foundations of deep learning. When you finish
 [Week 1 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/Neural%20Networks%20and%20Deep%20Learning%20-%20Week%201%20Quiz.pdf) [(Answer)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201%20Quiz%20-%20Introduction%20to%20deep%20learning.md)  
 [Week 2 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/Neural%20Networks%20and%20Deep%20Learning%20-%20Quiz%20Week%202.pdf) [(Answer)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202%20Quiz%20-%20Neural%20Network%20Basics.md)   
 Readings: 
-* [Implementing a Neural Network from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)  
-* [Why normalize images by subtracting dataset's image mean, instead of the current image mean in deep learning?](https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current)  
+[Implementing a Neural Network from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)  
+[Why normalize images by subtracting dataset's image mean, instead of the current image mean in deep learning?](https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current)  
 
 ## :point_right:  
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  

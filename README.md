@@ -69,6 +69,14 @@ by deeplearning.ai
 
 ## :point_right:  
 ## 1. Neural Networks and Deep Learning  
+https://www.coursera.org/learn/neural-networks-deep-learning/  
+
+In this course, you will learn the foundations of deep learning. When you finish this class, you will:  
+- Understand the major technology trends driving Deep Learning  
+- Be able to build, train and apply fully connected deep neural networks  
+- Know how to implement efficient (vectorized) neural networks  
+- Understand the key parameters in a neural network's architecture  
+
 [Week 1 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/Neural%20Networks%20and%20Deep%20Learning%20-%20Week%201%20Quiz.pdf) [(Answer)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201%20Quiz%20-%20Introduction%20to%20deep%20learning.md)  
 [Week 2 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/Neural%20Networks%20and%20Deep%20Learning%20-%20Quiz%20Week%202.pdf) [(Answer)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202%20Quiz%20-%20Neural%20Network%20Basics.md)  
 

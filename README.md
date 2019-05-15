@@ -66,7 +66,7 @@ https://www.coursera.org/learn/introduction-tensorflow/
 # 【[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)】  
 ## :point_right:  
 ## 1. Neural Networks and Deep Learning  
-[]() [Answer](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201%20Quiz%20-%20Introduction%20to%20deep%20learning.md)  
+[Week 1 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/Neural%20Networks%20and%20Deep%20Learning%20-%20Week%201%20Quiz.pdf) [(Answer)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201%20Quiz%20-%20Introduction%20to%20deep%20learning.md)  
 
 ## :point_right:  
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  

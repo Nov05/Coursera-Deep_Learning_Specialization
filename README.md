@@ -3,7 +3,7 @@
 # 【Precourses】
 
 ## :point_right:  
-## 1. [AI For Everyone]（https://www.coursera.org/learn/ai-for-everyone）  
+## 1. [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)  
 
 AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take.  
 by deeplearning.ai  

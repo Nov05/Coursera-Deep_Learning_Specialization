@@ -3,8 +3,8 @@
 # 【Precourses】
 
 ## :point_right:  
-## 1. AI For Everyone  
-https://www.coursera.org/learn/ai-for-everyone  
+## 1. [AI For Everyone]（https://www.coursera.org/learn/ai-for-everyone）  
+
 AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take.  
 by deeplearning.ai  
 
@@ -14,8 +14,8 @@ by deeplearning.ai
 [Week 4 Quiz](https://github.com/Nov05/Coursera-Deep_Learning_Specialization/blob/master/AI%20for%20Everyone/AI%20For%20Everyone%20-%20Week%204%20Quiz.pdf)  
 
 ## :point_right:  
-## 2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning  
-https://www.coursera.org/learn/introduction-tensorflow/  
+## 2. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)   
+ 
 If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you best practices for using TensorFlow, a popular open-source framework for machine learning.  
 by deeplearning.ai  
 
@@ -68,8 +68,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 by deeplearning.ai 
 
 ## :point_right:  
-## 1. Neural Networks and Deep Learning  
-https://www.coursera.org/learn/neural-networks-deep-learning/  
+## 1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/)    
 
 In this course, you will learn the foundations of deep learning. When you finish this class, you will:  
 - Understand the major technology trends driving Deep Learning  

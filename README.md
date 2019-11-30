@@ -1,5 +1,7 @@
 ﻿# Coursera-Deep_Learning_Specialization 
 
+<img src="https://github.com/Nov05/pictures/blob/master/nov05/2019-11-30%20neuron-min-min.png?raw=true" width=600>  
+
 # 【Precourses】
 
 ## :point_right:  
